@@ -34,17 +34,18 @@ public class ViewAct extends AppCompatActivity {
 
     public void showData(){
         // hier fange ich mit dem Code wegen List View
-        ListView list  =(ListView) findViewById( R.id.listview); // Verknüpf
+        ListView list  = findViewById( R.id.listview); // Verknüpf
         ArrayList<ObjectItems> Objectes=new ArrayList<ObjectItems>();
         ArrayList<String> listofNames = DB.getAllNamewithID();
         ArrayList<String> listofMeans = DB.getAllMeans();
-        for(int i=0;i<listofMeans.size()-1;i++){
+        for(int i=0; i < listofMeans.size(); i++){
             ObjectItems OBG = new ObjectItems(listofNames.get(i),listofMeans.get(i));
             Objectes.add(OBG);
         }
 
-           MyListAdapter MLD = new MyListAdapter(Objectes);
-            list.setAdapter(MLD);
+        MyListAdapter MLD = new MyListAdapter(Objectes);
+        list.setAdapter(MLD);
+        System.out.println(MLD.listitme);
 
 
        // ArrayList<String> listStrings = DB.getAllInput();
@@ -62,16 +63,11 @@ public class ViewAct extends AppCompatActivity {
 
     }
     class MyListAdapter extends BaseAdapter{
-        ArrayList<ObjectItems> listitme = new ArrayList<ObjectItems>();
+        ArrayList<ObjectItems> listitme;
 
 
         public MyListAdapter (ArrayList<ObjectItems> listen){
-            this.listitme=listen;
-
-
-
-
-
+            this.listitme = listen;
 
         }
 
