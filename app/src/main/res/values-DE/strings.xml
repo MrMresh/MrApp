@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">vocabulary trainer</string>
+    <string name="AddWord">Hinzufügen</string>
+    <string name="MeanOfWord">Wortbedeutung</string>
+    <string name="New_Word">Neues Wort</string>
+    <string name="Start_Test">Test Starten</string>
+    <string name="Show_Saved">Gespeichert anzeigen</string>
+    <string name="settings">Einstellungen</string>
+    <string name="about">App info</string>
+    <string name="score">Eregebnis:</string>
+    <string name="question">Frage</string>
+    <string name="Back">zurück</string>
+    <string name="Option">Optionen</string>
+    <string name="End_Test"> beenden</string>
+    <string name="Update">Aktualisieren</string>
+    <string name="Info_Titel">Android App (c)</string>
+    <string name="Resource">Gelernt:</string>
+
+    <string name="HMean">Ihr Sprache</string>
+    <string name="HWord">Fremdsprache</string>
+    <string name="List">Gespeicherte Elemente</string>
+
+
+
+
+
+
+
+
+
+
+    <string name="About_Info">Android Open-Source-Projekt
+Android ist ein weit verbreitetes Open-Source-Projekt.
+        Google entwickelt die Android-Plattform aktiv weiter,
+        stellt jedoch Hardware-Herstellern und Telefonanbietern,
+        die Android auf ihren Geräten verwenden möchten,
+        einen Teil davon kostenlos zur Verfügung.
+        Google berechnet Herstellern nur dann Gebühren,
+        wenn sie auch den Google Apps-Teil des
+        Betriebssystems installieren. Viele (aber nicht alle) gängigen Geräte,
+        die Android verwenden, entscheiden sich auch für den
+        Google Apps-Teil des Dienstes. Eine bemerkenswerte Ausnahme ist
+        Amazon. Obwohl Kindle Fire-Tablets Android verwenden,
+        werden die Google-Teile nicht verwendet, und Amazon
+        unterhält einen separaten Android-App-Store.
+Jenseits des Telefons
+Android versorgt Telefone und Tablets mit
+        Strom, aber Samsung hat mit Android-Schnittstellen
+        experimentiert, bei denen es sich nicht um Telefonelektronik
+        wie Kameras und sogar Kühlschränke handelt. Das Android TV ist
+        eine Spiele- / Streaming-Plattform, die Android verwendet.
+        Papagei macht sogar einen digitalen Fotorahmen und eine Auto-Stereoanlage
+        mit Android. Einige Geräte passen das Open-Source-Android-Gerät
+        ohne die Google-Apps an, sodass Sie Android möglicherweise nicht
+        erkennen können, wenn Sie es sehen.</string>
+
+
+
+</resources>

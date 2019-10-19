@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مدرب المفردات</string>
+    <string name="AddWord">أضف كلمة جديدة</string>
+    <string name="MeanOfWord">معنى كلمة</string>
+    <string name="New_Word">كلمة جديدة</string>
+    <string name="Start_Test">بدء الاختبار</string>
+    <string name="Show_Saved">عرض المحفوظة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="about">حول التطبيق</string>
+    <string name="score">النقاط:</string>
+    <string name="question">question</string>
+    <string name="Back">رجوع</string>
+    <string name="Option">خيارات</string>
+    <string name="End_Test">انهاءالاختبار</string>
+    <string name="Resource">:ذاكرة</string>
+    <string name="Update">تحديث</string>
+    <string name="Info_Titel">Android App (c)</string>
+    <string name="HMean">لغتك</string>
+    <string name="HWord"> اللغة الأجنبية</string>
+    <string name="List">قائمة العناصر المحفوظة</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="About_Info">مشروع أندرويد مفتوح المصدر
+Android هو مشروع مفتوح المصدر تم اعتماده على نطاق واسع.
+        Android على أجهزتهم Android على أجهزتهم. تفرض Google
+        رسومًا على المصنّعين فقط إذا قاموا بتثبيت جزء تطبيقات Google من نظام التشغيل. العديد من
+        (ولكن ليس جميع) الأجهزة الرئيسية التي تستخدم نظام Android ، لذا اختر جزءًا من
+        الخدمة من تطبيقات Google. أحد الاستثناءات البارزة هو Amazon. على الرغم من
+        أن Kindle Fire يستخدم نظام Android ، إلا أنه لا يستخدم أجزاء Google
+        ، بينما تحتفظ Amazon بمحل تطبيقات Android منفصل.
+وراء الهاتف
+هواتف Android والأجهزة اللوحية ، لكن Samsung جربت واجهات Android على الأجهزة
+        الإلكترونية غير الهاتفية مثل الكاميرات وحتى الثلاجات. Android TV هو نظام
+        للألعاب / البث المباشر يستخدم Android. يجعل Parrot إطار صور رقمي ونظام
+        ستيريو مع نظام Android. أجهزة Android بدون تطبيقات Google
+        ، لذلك قد تتعرف أو لا تتعرف على Android عندما تراها.</string>
+
+
+
+</resources>

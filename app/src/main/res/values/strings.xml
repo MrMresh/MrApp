@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">vocabulary trainer</string>
+    <string name="AddWord"> Add New Word</string>
+    <string name="MeanOfWord">Mean of Word</string>
+    <string name="New_Word">New Word</string>
+    <string name="Start_Test">Start Test</string>
+    <string name="Show_Saved">View Saved</string>
+    <string name="settings">Settings</string>
+    <string name="about">about app</string>
+    <string name="score">score:</string>
+    <string name="question">question</string>
+    <string name="Back">Back</string>
+    <string name="Option">Options</string>
+    <string name="End_Test">stop test</string>
+    <string name="Resource">learned:</string>
+    <string name="Update">Update</string>
+    <string name="HMean">your language</string>
+    <string name="HWord">foreign language</string>
+
+
+    <string name="Info_Titel">Android App (c)</string>
+    <string name="List">Saved items</string>
+
+
+
+    <string name="About_Info">Android Open Source Project
+
+Android is a widely-adopted open-source project.
+
+        Android on their devices. Android on their devices.
+        Google only charges manufacturers if they install the Google Apps portion of the OS.
+        Many (but not all) major devices that use Android so opt for Google
+        apps portion of the service. One notable exception is Amazon.
+        Although Kindle Fire uses Android, they do not use the Google portions,
+        and Amazon maintains a separate Android app store.
+Beyond the phone
+Android phones and tablets,
+        but Samsung has experimented with Android interfaces
+        on non-phone electronics like cameras and even refrigerators.
+        The Android TV is a gaming / streaming platform that uses Android.
+        Parrot even makes a digital photo frame and stereo system with Android.
+        Android devices without the Google apps, so you may or may not recognize Android
+        when you see it.</string>
+
+
+</resources>
